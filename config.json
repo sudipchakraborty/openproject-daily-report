@@ -1,0 +1,6 @@
+{
+  "schedule": {
+    "target_time": "13:23:00",
+    "check_interval_seconds": 1
+  }
+}

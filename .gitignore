@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+.env
+last_status.json
+log.txt
